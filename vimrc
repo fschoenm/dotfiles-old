@@ -38,3 +38,6 @@ endif
 if has("gui_vimr")
     color darkblue
 endif
+
+" key bindings
+nnoremap <Tab>  ==
